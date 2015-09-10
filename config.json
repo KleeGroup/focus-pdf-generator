@@ -1,0 +1,16 @@
+{
+  "domain": "localhost",
+  "port": 7777,
+  "mode": "dev",
+  "options": {
+    "cors": true
+  },
+  "user":{
+    "login": "dupont_t",
+    "password": ":dupont_t"
+  },
+  "pageSize": "A4",
+  "timeToRender": 40000,
+  "urlTest": "http://google.fr",
+  "filePathTest": "/opt/data/cap2er/pdf/"
+}

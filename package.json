@@ -1,0 +1,26 @@
+{
+  "name": "focus-pdf-generator",
+  "version": "1.0.0",
+  "description": "Pdf generator with phantomjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "engine"
+  ],
+  "author": "Morgane Sanfins <morgane.sanfins@kleegroup.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "7.5.2",
+    "underscore": "1.7.0",
+    "phantomjs": "1.9.15",
+    "promise": "6.1.0",
+    "phantom": "0.7.2"
+  },
+  "devDependencies": {
+    "mocha": "2.0.1"
+  }
+}
