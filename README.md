@@ -1,4 +1,4 @@
-CAP2ER génération de PDF
+Focus génération de PDF
 ========================
 
 ## Objectifs de l'application
@@ -20,7 +20,7 @@ L'API expose deux routes:
 
 ```javascript
 {
-  "url": "http://cap2er/diagnostic/1254",
+  "url": "http://focus-pdf/diagnostic/1254",
   "filePath": "/c/tmp/KLEE/2015/02/diag1254.pdf"
 }
 
@@ -32,4 +32,4 @@ L'API expose deux routes:
 
 ## Installation
 
-Dans le répertoire courant il faut faire `npm install` et `npm install -g gulp`
+Dans le répertoire courant il faut faire `npm install`
